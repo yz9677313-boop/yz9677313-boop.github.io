@@ -1,3 +1,6 @@
+openx.com, 563905670, RESELLER, 6a698e2ec38604c6
+triplelift.com, 14798, RESELLER, 6c33edb13117fd86
+pubmatic.com, 165854, RESELLER, 5d62403b186f2ace
 app-stock.com, 358747, RESELLER
 app-stock.com, 256917, RESELLER
 onlinemediasolutions.com, 23120, RESELLER, b3868b187e4b6402
